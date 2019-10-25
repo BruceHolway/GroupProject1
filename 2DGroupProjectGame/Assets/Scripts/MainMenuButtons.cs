@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuButtons : MonoBehaviour
 {
-    public int lives = 2;
+    public int lives = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -44,10 +44,10 @@ public class MainMenuButtons : MonoBehaviour
     }
     public void Troll()
     {
-        SceneManager.LoadScene("Troll");
+        SceneManager.LoadScene("Hardcore");
     }
     public void BruhMoment()
     {
-        SceneManager.LoadScene("BruhMoment");
+        SceneManager.LoadScene("EasterEgg");
     }
 }
