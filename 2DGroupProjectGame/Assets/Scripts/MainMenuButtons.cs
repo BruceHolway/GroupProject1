@@ -42,11 +42,11 @@ public class MainMenuButtons : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
-    public void Troll()
+    public void Hardcore()
     {
         SceneManager.LoadScene("Hardcore");
     }
-    public void BruhMoment()
+    public void EasterEgg()
     {
         SceneManager.LoadScene("EasterEgg");
     }
