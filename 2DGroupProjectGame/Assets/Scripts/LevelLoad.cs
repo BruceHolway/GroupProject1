@@ -19,7 +19,7 @@ public class LevelLoad : MonoBehaviour
         }
         if (collision.gameObject.tag == "Load")
         {
-            SceneManager.LoadScene(3);
+            SceneManager.LoadScene(7);
         }
 
     }
