@@ -9,12 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: e7a44b2f282f1204da960aa80de5a049
   - enabled: 1
-    path: Assets/Scenes/Options.unity
-    guid: ac0388691ccb07b4eaf9baca21687623
-  - enabled: 1
-    path: Assets/Scenes/HowToPlay.unity
-    guid: 5e1b0c44b4eed3f4dac0a7b1aef6908c
-  - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -24,11 +18,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 3.unity
     guid: 67419ca139ee4e949bb1700967f0b14c
   - enabled: 1
-    path: Assets/Scenes/Death.unity
-    guid: ba785f1acd0ca6c4888b297a3476a838
-  - enabled: 1
     path: Assets/Scenes/Final Boss.unity
     guid: 1d15c47b1267474408121d2428291b8c
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: ac0388691ccb07b4eaf9baca21687623
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 5e1b0c44b4eed3f4dac0a7b1aef6908c
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: ba785f1acd0ca6c4888b297a3476a838
   - enabled: 1
     path: Assets/Scenes/EasterEgg.unity
     guid: 2613f5f9682d22644a52ca2fb672f165
