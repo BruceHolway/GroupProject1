@@ -1,49 +1,34 @@
 fileFormatVersion: 2
-guid: 9aed810aa1d43f148b839d779a2f2989
+guid: 7289e9500b36c5d448c3827208578dee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7367556236541576841
-    second: WATERMELLON tiles_0
+      213: 5213229242370633579
+    second: Door_0
   - first:
-      213: 2852843042045464220
-    second: WATERMELLON tiles_1
+      213: 436563815456543028
+    second: Door_1
   - first:
-      213: -4035226515794762711
-    second: WATERMELLON tiles_2
+      213: -8689009931745917929
+    second: Door_2
   - first:
-      213: -4429696888815512484
-    second: WATERMELLON tiles_3
+      213: 289144848352645085
+    second: Door_3
   - first:
-      213: -2788496059434397215
-    second: WATERMELLON tiles_4
+      213: 6936692723106717497
+    second: Door_4
   - first:
-      213: 1242823665424825345
-    second: WATERMELLON tiles_5
+      213: 8808929173557640368
+    second: Door_5
   - first:
-      213: -9211058619484863789
-    second: WATERMELLON tiles_6
+      213: -118703559905284274
+    second: Door_6
   - first:
-      213: -5305944565348037243
-    second: WATERMELLON tiles_7
+      213: 1360838911650288969
+    second: Door_7
   - first:
-      213: -1113251065411803031
-    second: WATERMELLON tiles_8
-  - first:
-      213: 5382275679926202288
-    second: WATERMELLON tiles_9
-  - first:
-      213: -6349815400449293840
-    second: WATERMELLON tiles_10
-  - first:
-      213: 1631642455853551516
-    second: WATERMELLON tiles_11
-  - first:
-      213: -839782980335033989
-    second: WATERMELLON tiles_12
-  - first:
-      213: 5796335105463327545
-    second: WATERMELLON tiles_13
+      213: 8477961935573085179
+    second: Door_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -128,91 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WATERMELLON tiles_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77bbdc998653f8a48997f60b5109ca8f
-      internalID: -7367556236541576841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WATERMELLON tiles_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 039f4f8af5b68e54682b8de381c54845
-      internalID: 2852843042045464220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WATERMELLON tiles_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 130db83aad070764e8c29a5365054559
-      internalID: -4035226515794762711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WATERMELLON tiles_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a43678993901de64190b6755c07b3705
-      internalID: -4429696888815512484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WATERMELLON tiles_4
+      name: Door_0
       rect:
         serializedVersion: 2
         x: 0
@@ -226,14 +127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af7e689831066b24d92d3efc7ba31a86
-      internalID: -2788496059434397215
+      spriteID: bb10702aa70d09e4ebc169d825412162
+      internalID: 5213229242370633579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_5
+      name: Door_1
       rect:
         serializedVersion: 2
         x: 32
@@ -247,14 +148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68daf9ee136f3a341b7e7ced3ae4d320
-      internalID: 1242823665424825345
+      spriteID: eb69313b0373ea2479539f3281e4895b
+      internalID: 436563815456543028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_6
+      name: Door_2
       rect:
         serializedVersion: 2
         x: 64
@@ -268,35 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c79135c5f53df14985634a0ff3cee6c
-      internalID: -9211058619484863789
+      spriteID: 33e79e692b5aecf45a1dc03d685da7b3
+      internalID: -8689009931745917929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_7
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: caeee7d8f76dcf84c8405373884d07fe
-      internalID: -5305944565348037243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WATERMELLON tiles_8
+      name: Door_3
       rect:
         serializedVersion: 2
         x: 0
@@ -310,14 +190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: beb2edba493f1024b9ca7284ec8c89f1
-      internalID: -1113251065411803031
+      spriteID: 3c12455f1cd17a742aadd9aa22ce2315
+      internalID: 289144848352645085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_9
+      name: Door_4
       rect:
         serializedVersion: 2
         x: 32
@@ -331,14 +211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8c265b8a09c17147a6bf96903b0a111
-      internalID: 5382275679926202288
+      spriteID: 88b1c7b984fb9d241a1092d6b0fb6c41
+      internalID: 6936692723106717497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_10
+      name: Door_5
       rect:
         serializedVersion: 2
         x: 64
@@ -352,35 +232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e35e065d7f043b74ca80f99769fbc83b
-      internalID: -6349815400449293840
+      spriteID: a887eda01586c2a4c880e4fc4d5db068
+      internalID: 8808929173557640368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_11
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 247351266bf663e489df87eb13c1e3a0
-      internalID: 1631642455853551516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WATERMELLON tiles_12
+      name: Door_6
       rect:
         serializedVersion: 2
         x: 0
@@ -394,14 +253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ede1e28b9bd4ed04284e646f025a2349
-      internalID: -839782980335033989
+      spriteID: d1982f7ae3f2bc649a7ef339052d828d
+      internalID: -118703559905284274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WATERMELLON tiles_13
+      name: Door_7
       rect:
         serializedVersion: 2
         x: 32
@@ -415,8 +274,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 667a06fc1f2c72b4da69e4ed239a6a95
-      internalID: 5796335105463327545
+      spriteID: 75bb9825a03e25044bfb66a9178d8f6b
+      internalID: 1360838911650288969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5475e826fe22741b7a9b8234712e3a
+      internalID: 8477961935573085179
       vertices: []
       indices: 
       edges: []
