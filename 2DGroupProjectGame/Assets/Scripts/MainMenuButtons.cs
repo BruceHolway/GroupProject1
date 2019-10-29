@@ -28,7 +28,7 @@ public class MainMenuButtons : MonoBehaviour
     }
     public void Options()
     {
-        SceneManager.LoadScene("Settings");
+        SceneManager.LoadScene("Options");
     }
     public void HowToPlay()
     {
