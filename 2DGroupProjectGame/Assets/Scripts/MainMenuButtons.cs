@@ -50,4 +50,8 @@ public class MainMenuButtons : MonoBehaviour
     {
         SceneManager.LoadScene("EasterEgg");
     }
+    public void CharacterSelect()
+    {
+        SceneManager.LoadScene("CharacterSelect");
+    }
 }

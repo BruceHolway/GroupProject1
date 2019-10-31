@@ -18,6 +18,13 @@ public class PlayerMovement : MonoBehaviour
         float y = Input.GetAxis("Vertical");
         Vector2 velocity = new Vector2(x, y);
         GetComponent<Rigidbody2D>().velocity = velocity * moveSpeed;
-        
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            moveSpeed = 8;
+        }
+        else
+        {
+            moveSpeed = 5;
+        }
     }
 }
