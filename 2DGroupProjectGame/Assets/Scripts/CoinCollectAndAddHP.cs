@@ -21,8 +21,8 @@ public class CoinCollectAndAddHP : MonoBehaviour
         if(collision.gameObject.tag == "coin")
         {
             Coin++;
-            GameObject.Find(player).GetComponent<PlayerHP>().health++;
-            GameObject.Find(player).GetComponent<PlayerHP>().Healthupdate();
+            GameObject.Find(player).GetComponent<PlayerHPReferencable>().health++;
+            GameObject.Find(player).GetComponent<PlayerHPReferencable>().Healthupdate();
             
             cointext.text = "coins " + Coin + "/" + goal;
             Destroy(collision.gameObject);
