@@ -52,6 +52,8 @@ public class MainMenuButtons : MonoBehaviour
     }
     public void CharacterSelect()
     {
-        SceneManager.LoadScene("CharacterSelect");
+        GetComponent<Canvas>().enabled = false;
+        PlayerPrefs.SetInt("lives", lives);
+        GameObject.Find("player select").GetComponent<Canvas>().enabled = true;
     }
 }
