@@ -15,11 +15,11 @@ public class LevelLoad : MonoBehaviour
     {
         if (collision.gameObject.tag == "Level")
         {
-            SceneManager.LoadScene(5);
+            SceneManager.LoadScene("Meme");
         }
         if (collision.gameObject.tag == "Load")
         {
-            SceneManager.LoadScene(7);
+            SceneManager.LoadScene("EasterEgg");
         }
 
     }

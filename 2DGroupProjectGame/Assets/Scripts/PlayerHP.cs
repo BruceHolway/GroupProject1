@@ -52,7 +52,24 @@ public class PlayerHP : MonoBehaviour
         }
 
     }
-    
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Health")
+        {
+            {
+                health = health + 10;
+                HP.text = "Health: " + health;
+                Healthslider.value = health;
+                Destroy(collision.gameObject);
+                if (health < 50)
+                {
+                    {
+                        SceneManager.LoadScene("Death2");
+                    }
+                }
+            }
+        }
+    }
 
 }
 

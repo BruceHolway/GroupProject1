@@ -61,7 +61,7 @@ public class oik : MonoBehaviour
         }
         else if (timer > 180 && timer < 181)
         {
-            memestuff.text = "Ok fine. there is a secret chest in the game. its in the jungle area. Now please click the button";
+            memestuff.text = "Ok fine.In the main menu there might be a secret.";
         }
         else if (timer > 195 && timer < 196)
         {
@@ -77,7 +77,7 @@ public class oik : MonoBehaviour
         }
         else if (timer > 260 && timer < 261)
         {
-            memestuff.text = "Ok are you trying to die of boredom or are you just let the text run.";
+            memestuff.text = "Fun fact Noah is in one of the levels maybe you can try and talk to him instead of me. So click the button.";
         }
         else if (timer > 270 && timer < 271)
         {
@@ -101,15 +101,15 @@ public class oik : MonoBehaviour
         }
         else if (timer > 380 && timer < 381)
         {
-            memestuff.text = "You know what ill tell you that there is a secret maze in the jungle with that chest but be warned it is cursed.";
+            memestuff.text = "You know what there is a true secret level in the main menu and if you can find the secret in it then oh boy.";
         }
         else if (timer > 390 && timer < 391)
         {
-            memestuff.text = "The way to get there is from spawn head down and take the next left then hold the up button until you go through a wall.";
+            memestuff.text = "It's very hard. Some guy named Noah M. made this monster level.";
         }
         else if (timer > 410 && timer < 411)
         {
-            memestuff.text = "Be warned it is very hard. Not even i know the path to the end of the maze.";
+            memestuff.text = "Be warned it is very hard. Not even i know the path to the end of it besides Noah";
         }
         else if (timer > 425 && timer < 426)
         {
