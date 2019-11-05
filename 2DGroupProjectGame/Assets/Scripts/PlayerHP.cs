@@ -61,7 +61,7 @@ public class PlayerHP : MonoBehaviour
                 HP.text = "Health: " + health;
                 Healthslider.value = health;
                 Destroy(collision.gameObject);
-                if (health < 50)
+                if (health > 101)
                 {
                     {
                         SceneManager.LoadScene("Death2");

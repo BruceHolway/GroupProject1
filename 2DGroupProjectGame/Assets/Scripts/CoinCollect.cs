@@ -21,12 +21,10 @@ public class CoinCollect : MonoBehaviour
             coinCount++;
             cointext.text = "Coins Amount: " + coinCount;
             Destroy(collision.gameObject);
-            
-            if(coinCount > 15)
-            {
-                SceneManager.LoadScene(2);
-
-            }
         }
+        //else(coinCount > 0)
+       // {
+            //SceneManager.LoadScene("EasterEgg");
+       // }
     }
 }
