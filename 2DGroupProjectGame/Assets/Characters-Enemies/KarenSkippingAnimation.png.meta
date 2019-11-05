@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 66acb20e7f0fa8341b640924262be74b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 96877796079349446
+    second: KarenSkippingAnimation_0
+  - first:
+      213: 4334564065556209352
+    second: KarenSkippingAnimation_1
+  - first:
+      213: 7908879912874262330
+    second: KarenSkippingAnimation_2
+  - first:
+      213: -4351802739775320466
+    second: KarenSkippingAnimation_3
+  - first:
+      213: 1043280841928108965
+    second: KarenSkippingAnimation_4
+  - first:
+      213: 5615875684916634430
+    second: KarenSkippingAnimation_5
+  - first:
+      213: -5357956607192868072
+    second: KarenSkippingAnimation_6
+  - first:
+      213: 844703424603460507
+    second: KarenSkippingAnimation_7
+  - first:
+      213: -6262119197579873917
+    second: KarenSkippingAnimation_8
+  - first:
+      213: 9155182560591040933
+    second: KarenSkippingAnimation_9
+  - first:
+      213: 7819645881454208331
+    second: KarenSkippingAnimation_10
+  - first:
+      213: -8174934105115856910
+    second: KarenSkippingAnimation_11
+  - first:
+      213: -7505623704586414195
+    second: KarenSkippingAnimation_12
+  - first:
+      213: -8017893437564758029
+    second: KarenSkippingAnimation_13
+  - first:
+      213: -4826739544632613249
+    second: KarenSkippingAnimation_14
+  - first:
+      213: 8464989926795711235
+    second: KarenSkippingAnimation_15
+  - first:
+      213: -3736481083278883033
+    second: KarenSkippingAnimation_16
+  - first:
+      213: 967104737010719793
+    second: KarenSkippingAnimation_17
+  - first:
+      213: -7062095600548375749
+    second: KarenSkippingAnimation_18
+  - first:
+      213: 5523281363545447988
+    second: KarenSkippingAnimation_19
+  - first:
+      213: -5939872460561549953
+    second: KarenSkippingAnimation_20
+  - first:
+      213: -6454978166384492013
+    second: KarenSkippingAnimation_21
+  - first:
+      213: 2198619110596147673
+    second: KarenSkippingAnimation_22
+  - first:
+      213: -565704343878959131
+    second: KarenSkippingAnimation_23
+  - first:
+      213: -7041637809474007001
+    second: KarenSkippingAnimation_24
+  - first:
+      213: 5734566810397380799
+    second: KarenSkippingAnimation_25
+  - first:
+      213: 6871279294582659755
+    second: KarenSkippingAnimation_26
+  - first:
+      213: 4300163240313806408
+    second: KarenSkippingAnimation_27
+  - first:
+      213: 5794555631401590405
+    second: KarenSkippingAnimation_28
+  - first:
+      213: -800962198950273463
+    second: KarenSkippingAnimation_29
+  - first:
+      213: -3161929276767106700
+    second: KarenSkippingAnimation_30
+  - first:
+      213: -8102018845440236744
+    second: KarenSkippingAnimation_31
+  - first:
+      213: -1148994738413578131
+    second: KarenSkippingAnimation_32
+  - first:
+      213: 8745490015075593554
+    second: KarenSkippingAnimation_33
+  - first:
+      213: 6211627347408725290
+    second: KarenSkippingAnimation_34
+  - first:
+      213: -5640624948531249981
+    second: KarenSkippingAnimation_35
+  - first:
+      213: 1839638276132994256
+    second: KarenSkippingAnimation_36
+  - first:
+      213: -2197807877654149611
+    second: KarenSkippingAnimation_37
+  - first:
+      213: -3908568983677468126
+    second: KarenSkippingAnimation_38
+  - first:
+      213: -4355631159713912222
+    second: KarenSkippingAnimation_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613dc7fb65ad41a4cbf55a8139ef9f81
+      internalID: 96877796079349446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd2eabe1f94f440ad5fe7cb326d0f9
+      internalID: 4334564065556209352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4a54dd510b48498220811b7047737
+      internalID: 7908879912874262330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ddcaaf4b2c00347847e5624dedb1cb
+      internalID: -4351802739775320466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea20b14d1f7444ba381701dfd786c4
+      internalID: 1043280841928108965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e0a06b24cd5a459331d07f176d10b
+      internalID: 5615875684916634430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86ab53c817665439e99bf42cbca4e7
+      internalID: -5357956607192868072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d18eaf301a33343a6c8eb9a7f0f2a4
+      internalID: 844703424603460507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f8178f15a7964faf4bc4a0c05561e
+      internalID: -6262119197579873917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ad5c9e4e037b4ba6ad480ee955d7c
+      internalID: 9155182560591040933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14405840e4c6a5149995a0b8721558d6
+      internalID: 7819645881454208331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb23717c142f50448473f7d47bdea0d
+      internalID: -8174934105115856910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb9da3d2f80e84e8a8e5165adf87dc
+      internalID: -7505623704586414195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57610896b4c7eec4ebd29423ec080e58
+      internalID: -8017893437564758029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52ac8b55c748d43ab2bfd957b44ec4
+      internalID: -4826739544632613249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d1a198c6bbc34aa959c1ce547e4ff
+      internalID: 8464989926795711235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c0de0e8f85a441b89bef8461a2d70
+      internalID: -3736481083278883033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdfe1c1627fc90498a083b2cf2a7f81
+      internalID: 967104737010719793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87e8196b27b894589691bcb649d81d
+      internalID: -7062095600548375749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fb4a4bdb6f1f49ba3d9c2be5b9a4c
+      internalID: 5523281363545447988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320983ec0d6bb04b89764c74f27b027
+      internalID: -5939872460561549953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcbfa82eaf68ce458cc9f245d7fb6cb
+      internalID: -6454978166384492013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1ca13db7b1da42b4c3af4b9a1a2ac
+      internalID: 2198619110596147673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ad37b9f5cf6e4aa060fec8c5d7cf5
+      internalID: -565704343878959131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72eb0a7f6a1644a880be06cef4ff99
+      internalID: -7041637809474007001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4254b3b654a7ef24d8eaebd770a69d08
+      internalID: 5734566810397380799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569bca004ee6b64c9d0fca7783ea580
+      internalID: 6871279294582659755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83b82be8af17f46a745bc799367b7e
+      internalID: 4300163240313806408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779d4afb8be8446479bf290f6796bbad
+      internalID: 5794555631401590405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20fb7af74340be4ab7b77fc6114f2ba
+      internalID: -800962198950273463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197443ece2a60b94bbd0291480a0d56a
+      internalID: -3161929276767106700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6117432c8e9d62640af4dab3659df34d
+      internalID: -8102018845440236744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d4ee9b8b800749882132905cfd739
+      internalID: -1148994738413578131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c978ac6019bf04e93239ca5981d165
+      internalID: 8745490015075593554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead600000bd9a64b99b003fcf841fa0
+      internalID: 6211627347408725290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3dd5d7438a1243a693779bb76d892
+      internalID: -5640624948531249981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de59fb312bb4f441a27d6959cf65dc7
+      internalID: 1839638276132994256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7291467fb3cc2494dba2fb5b57893b80
+      internalID: -2197807877654149611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4970ec9688ddb7e46b9bfad7031646f6
+      internalID: -3908568983677468126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KarenSkippingAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39a2e238e2ec64d85f3996205242c2
+      internalID: -4355631159713912222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

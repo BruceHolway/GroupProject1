@@ -43,8 +43,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7420f75ea60585a4aab75911deddca93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  daveprefab: {fileID: 0}
-  fjordprefab: {fileID: 0}
-  karenprefab: {fileID: 0}
-  tbdprefab: {fileID: 0}
+  daveprefab: {fileID: 4967189763922013922, guid: 857f412cbe4447e42aba1ac6be2d8387,
+    type: 3}
+  fjordprefab: {fileID: 6631649493375469479, guid: a4904a668ae6422488bb2c7237e28dfe,
+    type: 3}
+  karenprefab: {fileID: 1662392043958398856, guid: 10d0631a8351d3740b7c9e679f0937ca,
+    type: 3}
+  tbdprefab: {fileID: 266789958458238820, guid: 691463d46d327e64c97cf176ebe513b2,
+    type: 3}
   Character: 

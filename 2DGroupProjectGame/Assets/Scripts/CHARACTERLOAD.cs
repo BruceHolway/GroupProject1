@@ -9,9 +9,11 @@ public class CHARACTERLOAD : MonoBehaviour
     public GameObject karenprefab;
     public GameObject tbdprefab;
     public string Character;
-    
+
     void Start()
     {
+
+        Debug.Log(PlayerPrefs.GetString("character"));
         Character = PlayerPrefs.GetString("character");
         if (Character == "dave")
         {

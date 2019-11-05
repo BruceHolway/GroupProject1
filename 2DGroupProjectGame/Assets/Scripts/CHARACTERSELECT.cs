@@ -23,6 +23,7 @@ public class CHARACTERSELECT : MonoBehaviour
     {
         Character = "fjord";
         PlayerPrefs.SetString("character", Character);
+        Debug.Log(PlayerPrefs.GetString("character"));
         SceneManager.LoadScene("Level 1");
         
     }
