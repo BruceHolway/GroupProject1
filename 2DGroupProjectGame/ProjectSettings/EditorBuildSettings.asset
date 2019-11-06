@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/HowToPlay.unity
     guid: 5e1b0c44b4eed3f4dac0a7b1aef6908c
   - enabled: 1
+    path: Assets/Scenes/MelonLevel.unity
+    guid: e4bbd688abb3cf04dbcc42edb0bb4453
+  - enabled: 1
     path: Assets/Scenes/Death.unity
     guid: ba785f1acd0ca6c4888b297a3476a838
   - enabled: 1

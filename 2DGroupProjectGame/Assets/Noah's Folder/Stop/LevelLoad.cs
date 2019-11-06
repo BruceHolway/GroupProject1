@@ -21,6 +21,9 @@ public class LevelLoad : MonoBehaviour
         {
             SceneManager.LoadScene("EasterEgg");
         }
-
+        if (collision.gameObject.tag == "Melon")
+        {
+            SceneManager.LoadScene("MelonLevel");
+        }
     }
 }

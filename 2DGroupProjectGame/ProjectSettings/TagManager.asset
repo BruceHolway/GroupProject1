@@ -12,6 +12,7 @@ TagManager:
   - Coin
   - Level
   - Load
+  - Melon
   layers:
   - Default
   - TransparentFX

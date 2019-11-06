@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 1662392043958398859}
   - component: {fileID: 1662392043958398858}
   - component: {fileID: 1662392043958398857}
+  - component: {fileID: 2637264195884842596}
   m_Layer: 11
   m_Name: Karen
   m_TagString: Player
@@ -135,8 +136,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.014854431, y: -0.05293539}
-  m_Size: {x: 0.14910698, y: 0.5114406}
+  m_Offset: {x: -0.014854431, y: -0.08164622}
+  m_Size: {x: 0.14910698, y: 0.52050704}
   m_Direction: 0
 --- !u!114 &1662392043958398860
 MonoBehaviour:
@@ -197,10 +198,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 185ad7c82c34d3c4a99cda4ad4c59935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 10
+  health: 40
   HP: {fileID: 0}
   Healthslider: {fileID: 0}
   lives: 0
+--- !u!114 &2637264195884842596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1662392043958398856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a3886b0f6ad7cd408a57981774fed7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1662392044955310971
 GameObject:
   m_ObjectHideFlags: 0
