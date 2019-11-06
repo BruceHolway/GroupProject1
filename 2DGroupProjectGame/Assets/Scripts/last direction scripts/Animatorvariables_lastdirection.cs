@@ -11,7 +11,7 @@ public class Animatorvariables_lastdirection : MonoBehaviour
         lastdirection = 0;
         GetComponent<Animator>().SetFloat("lastdirection", lastdirection);
     }
-
+    //noah
     // Update is called once per frame
     void Update()
     {

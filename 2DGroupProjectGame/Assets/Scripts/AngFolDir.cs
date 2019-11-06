@@ -10,7 +10,7 @@ public class AngFolDir : MonoBehaviour
     {
         lastpos = transform.position;
     }
-
+    //noah
     // Update is called once per frame
     void Update()
     {
