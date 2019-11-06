@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5.0f;
+    public string Character;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +26,26 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             moveSpeed = 5;
+        }
+        if(Input.GetButton("Fire1"))
+        {
+            Character = PlayerPrefs.GetString("character");
+            if(Character == "dave")
+            {
+
+            }
+            else if(Character == "fjord")
+            {
+
+            }
+            else if(Character == "karen")
+            {
+
+            }
+            else if(Character == "tbd")
+            {
+
+            }
         }
     }
 }

@@ -20,7 +20,7 @@ public class shoot_facing : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float direction = GetComponent<Animatorvariables>().lastdirection;
+        float direction = GetComponent<Animatorvariables_lastdirection>().lastdirection;
 
         timer += Time.deltaTime;
         
