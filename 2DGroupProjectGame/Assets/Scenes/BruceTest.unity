@@ -220,18 +220,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 335870983}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1118094072
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1118094070}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbbdf586b173ec9438c261fa56f3bbef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1118094081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -248,16 +236,3 @@ MonoBehaviour:
   shootspeed: 10
   bulletlife: 1
   delay: 1
---- !u!114 &1118094082
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1118094070}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 80f51211385f97d44b925bda73057d90, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lastdirection: 0
