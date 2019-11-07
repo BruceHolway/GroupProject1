@@ -185,7 +185,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cebc828115da56740b883f7f212b3717, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 5.42
+  Character: 
 --- !u!50 &4967189763922013924
 Rigidbody2D:
   serializedVersion: 4
@@ -267,9 +268,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 7706364865986643642, guid: 600c0c009d4e7b24b922885a6475e924, type: 3}
-  bspee: 8
-  bulletlifetime: 0.2
-  shhotdelay: 1
+  bspee: 15
+  bulletlifetime: 1
+  shhotdelay: 0.6
 --- !u!114 &4967189763922013923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -283,8 +284,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 50
-  HP: {fileID: 0}
-  Healthslider: {fileID: 0}
+  HP: {fileID: 3693194668038260550, guid: 868569c5e57b86f4797706f71e86d4fe, type: 3}
+  Healthslider: {fileID: 4136700666977548724, guid: a6886215e33868948bcc7e9659f940fa,
+    type: 3}
   lives: 0
 --- !u!114 &4180848705878265503
 MonoBehaviour:
