@@ -32,7 +32,7 @@ public class PlayerMovement : MonoBehaviour
             Character = PlayerPrefs.GetString("character");
             if(Character == "dave")
             {
-
+                
             }
             else if(Character == "fjord")
             {
