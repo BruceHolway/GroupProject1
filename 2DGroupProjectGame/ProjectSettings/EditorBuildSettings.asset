@@ -39,7 +39,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EasterEgg.unity
     guid: 2613f5f9682d22644a52ca2fb672f165
   - enabled: 1
-    path: Assets/Scenes/Hardcore.unity
+    path: Assets/Noah's Folder/Stop/No/Hardcore.unity
     guid: c2a2b5784f74ab242b44adfc210746ab
   - enabled: 1
     path: Assets/Noah's Folder/Stop/No/Meme.unity
