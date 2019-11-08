@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: ed9a4d11411eb2248bde8889fd6c55c9
+guid: 06e809c88d200d84b83e28421da4e745
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7770375846734202537
-    second: KarenSpellAnimation_0
+      213: 3939094054486442443
+    second: DaveThrowingAnimation 1_0
   - first:
-      213: 1446823793755698657
-    second: KarenSpellAnimation_1
+      213: 577236946177667127
+    second: DaveThrowingAnimation 1_1
   - first:
-      213: -4517939820198707424
-    second: KarenSpellAnimation_2
+      213: -283461737018660257
+    second: DaveThrowingAnimation 1_2
   - first:
-      213: 2592756967293296641
-    second: KarenSpellAnimation_3
+      213: -3039968672867486738
+    second: DaveThrowingAnimation 1_3
   - first:
-      213: -2489182832439526281
-    second: KarenSpellAnimation_4
+      213: 4784713383678370703
+    second: DaveThrowingAnimation 1_4
   - first:
-      213: 1016444664293610967
-    second: KarenSpellAnimation_5
+      213: 2844112985575310204
+    second: DaveThrowingAnimation 1_5
   - first:
-      213: 7486336908963966739
-    second: KarenSpellAnimation_6
+      213: -3952587181413989753
+    second: DaveThrowingAnimation 1_6
   - first:
-      213: -8130267265983873605
-    second: KarenSpellAnimation_7
+      213: 6147679168489996375
+    second: DaveThrowingAnimation 1_7
   - first:
-      213: -6104320495105426455
-    second: KarenSpellAnimation_8
+      213: 108236134540767723
+    second: DaveThrowingAnimation 1_8
   - first:
-      213: 5137329621805720839
-    second: KarenSpellAnimation_9
+      213: -2048987612327933715
+    second: DaveThrowingAnimation 1_9
   - first:
-      213: -2748051359924082569
-    second: KarenSpellAnimation_10
+      213: -2566135754113480450
+    second: DaveThrowingAnimation 1_10
   - first:
-      213: 1029174989929193494
-    second: KarenSpellAnimation_11
+      213: -6927069752360769844
+    second: DaveThrowingAnimation 1_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -122,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KarenSpellAnimation_0
+      name: DaveThrowingAnimation 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -136,14 +136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e0cb4ac35281eb4d86d11d7e0389c5b
-      internalID: 7770375846734202537
+      spriteID: c63744ce18eb09d469749b9d90bf3d98
+      internalID: 3939094054486442443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_1
+      name: DaveThrowingAnimation 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -157,14 +157,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43ff7aa5f39e9ad4988b006436cc3827
-      internalID: 1446823793755698657
+      spriteID: 87995cd305ba4b14d847b609f8690102
+      internalID: 577236946177667127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_2
+      name: DaveThrowingAnimation 1_2
       rect:
         serializedVersion: 2
         x: 64
@@ -178,14 +178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19f00d70ce44a274298bd9a474c2f60e
-      internalID: -4517939820198707424
+      spriteID: ea96193ad02ddf4438ee4d7613bcac39
+      internalID: -283461737018660257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_3
+      name: DaveThrowingAnimation 1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -199,14 +199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e55566959efe18a4e974363a8771f787
-      internalID: 2592756967293296641
+      spriteID: ead2b639b3c34d64eacb378ea26bbcfd
+      internalID: -3039968672867486738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_4
+      name: DaveThrowingAnimation 1_4
       rect:
         serializedVersion: 2
         x: 32
@@ -220,14 +220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d0b6bef579d6ff439124a78f259924d
-      internalID: -2489182832439526281
+      spriteID: 6ccaa138178a4974a81db49b2ad0674b
+      internalID: 4784713383678370703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_5
+      name: DaveThrowingAnimation 1_5
       rect:
         serializedVersion: 2
         x: 64
@@ -241,14 +241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 148bb194cae29c347aac09d019b4c1d4
-      internalID: 1016444664293610967
+      spriteID: efa7342d4272a8c4d9219dc58bab6c81
+      internalID: 2844112985575310204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_6
+      name: DaveThrowingAnimation 1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -262,14 +262,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c35aa326f635ff43a43760d439bc950
-      internalID: 7486336908963966739
+      spriteID: 759eaa8f70207264da8c905ae643b842
+      internalID: -3952587181413989753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_7
+      name: DaveThrowingAnimation 1_7
       rect:
         serializedVersion: 2
         x: 32
@@ -283,14 +283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 608cfd379aaa81c48babbf4945d5aebb
-      internalID: -8130267265983873605
+      spriteID: 3dfbc94ab54e2ab4a989c0eaa935efd3
+      internalID: 6147679168489996375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_8
+      name: DaveThrowingAnimation 1_8
       rect:
         serializedVersion: 2
         x: 64
@@ -304,14 +304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd7be2590b5a84a49bee70d4d6a98177
-      internalID: -6104320495105426455
+      spriteID: 28b998c269199814fbaec63928d320f8
+      internalID: 108236134540767723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_9
+      name: DaveThrowingAnimation 1_9
       rect:
         serializedVersion: 2
         x: 0
@@ -325,14 +325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b36656a11beb2b046908ef0b4321a6e5
-      internalID: 5137329621805720839
+      spriteID: f410ca1796feb9549b502420fabc9d94
+      internalID: -2048987612327933715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_10
+      name: DaveThrowingAnimation 1_10
       rect:
         serializedVersion: 2
         x: 32
@@ -346,14 +346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a47288ea9daa843ac07d400f2bea6f
-      internalID: -2748051359924082569
+      spriteID: b9afafd0dc43ae64bbafb4ddc92329c8
+      internalID: -2566135754113480450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenSpellAnimation_11
+      name: DaveThrowingAnimation 1_11
       rect:
         serializedVersion: 2
         x: 64
@@ -367,8 +367,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2b205b5db403e242a08ee1c511d9eed
-      internalID: 1029174989929193494
+      spriteID: d6cc94ec77ccbc7418f7efd91ec44424
+      internalID: -6927069752360769844
       vertices: []
       indices: 
       edges: []

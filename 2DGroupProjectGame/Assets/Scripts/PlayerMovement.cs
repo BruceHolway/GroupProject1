@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    private Animator anim;
     public float moveSpeed = 5.0f;
-    public string Character;
+    public float attackTime;
+    private float attackTimeCounter;
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -27,25 +29,20 @@ public class PlayerMovement : MonoBehaviour
         {
             moveSpeed = 5;
         }
-        if(Input.GetButton("Fire1"))
+        if (Input.GetButton("Fire1"))
         {
-            Character = PlayerPrefs.GetString("character");
-            if(Character == "dave")
-            {
-                
-            }
-            else if(Character == "fjord")
-            {
-
-            }
-            else if(Character == "karen")
-            {
-
-            }
-            else if(Character == "tbd")
-            {
-
-            }
+            attackTimeCounter = attackTime;
+            anim.SetBool("Attack", true);
+        }
+        if(attackTimeCounter > 0)
+        {
+            attackTimeCounter -= Time.deltaTime;
+            Debug.Log("foo");
+        }
+        else
+        {
+            anim.SetBool("Attack", false);
         }
     }
+   
 }

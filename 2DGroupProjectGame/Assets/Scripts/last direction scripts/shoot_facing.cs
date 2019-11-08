@@ -76,7 +76,7 @@ public class shoot_facing : MonoBehaviour
 
     public void Fire()
     {
-        if (Input.GetKey(KeyCode.Z) && timer > delay)
+        if (Input.GetButton("Fire1") && timer > delay)
         {
             timer = 0;
             GameObject bullet = Instantiate(prefab, transform.position, Quaternion.identity);
