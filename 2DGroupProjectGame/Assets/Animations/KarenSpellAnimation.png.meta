@@ -1,5 +1,4 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: ed9a4d11411eb2248bde8889fd6c55c9
 TextureImporter:
   internalIDToNameTable:
@@ -39,11 +38,6 @@ TextureImporter:
   - first:
       213: 1029174989929193494
     second: KarenSpellAnimation_11
-=======
-guid: 5aeadf9f3eb3ab94393711e631a9f5c2
-TextureImporter:
-  internalIDToNameTable: []
->>>>>>> eca3f078a817486bd7770a7627551188331f328a
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -73,11 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< HEAD
     filterMode: 0
-=======
-    filterMode: -1
->>>>>>> eca3f078a817486bd7770a7627551188331f328a
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -86,20 +76,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-<<<<<<< HEAD
   spriteMode: 2
-=======
-  spriteMode: 1
->>>>>>> eca3f078a817486bd7770a7627551188331f328a
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   spritePixelsToUnits: 32
-=======
-  spritePixelsToUnits: 100
->>>>>>> eca3f078a817486bd7770a7627551188331f328a
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +99,6 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -131,9 +112,6 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-=======
-    textureCompression: 1
->>>>>>> eca3f078a817486bd7770a7627551188331f328a
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,7 +120,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-<<<<<<< HEAD
     sprites:
     - serializedVersion: 2
       name: KarenSpellAnimation_0
@@ -396,9 +373,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-=======
-    sprites: []
->>>>>>> eca3f078a817486bd7770a7627551188331f328a
     outline: []
     physicsShape: []
     bones: []
