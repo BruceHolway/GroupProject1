@@ -232,9 +232,7 @@ MonoBehaviour:
 
     ----------------------------------
 
-    "Wow Very cool"
-
-    "Fun fact in the making of the game most of are ideas are easter eggs"'
+    Each Character does something special so use that to your advantage'
 --- !u!222 &145715131
 CanvasRenderer:
   m_ObjectHideFlags: 0
