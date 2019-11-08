@@ -1572,7 +1572,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 365250821}
   m_OnClick:
     m_PersistentCalls:
@@ -2182,7 +2182,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: soup rice
+  m_Text: locked
 --- !u!222 &770709336
 CanvasRenderer:
   m_ObjectHideFlags: 0
