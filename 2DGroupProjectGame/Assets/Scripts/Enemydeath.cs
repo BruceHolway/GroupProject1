@@ -16,9 +16,20 @@ public class Enemydeath : MonoBehaviour
     {
         
     }
-     void OnTriggerEnter2D(Collider2D collision)
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "PlayerBullet")
+        {
+            hp--;
+            if (hp < 1)
+            {
+                Destroy(gameObject);
+            }
+        }
+    }
+     void OnTriggerEnter2D(Collision2D collision)
      {
-        if(collision.gameObject.tag == "bullet")
+        if(collision.gameObject.tag == "PlayerBullet")
         {
             hp--;
             if(hp < 1)

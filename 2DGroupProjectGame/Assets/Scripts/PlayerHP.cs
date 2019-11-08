@@ -7,10 +7,13 @@ using UnityEngine.UI;
 
 public class PlayerHP : MonoBehaviour
 {
+    private Animator anim;
     public int health = 50;
     public Text HP;
     public Slider Healthslider;
     public int lives = 0;
+    public float deathTime;
+    private float deathTimeCounter;
 
     private void Start()
     {
@@ -18,6 +21,7 @@ public class PlayerHP : MonoBehaviour
         Healthslider.maxValue = health;
         Healthslider.value = health;
         lives = PlayerPrefs.GetInt("lives");
+        anim = GetComponent<Animator>();
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -29,9 +33,18 @@ public class PlayerHP : MonoBehaviour
                 Healthslider.value = health;
                 if (health < 1)
                 {
-                    {
-                        SceneManager.LoadScene("Death");
-                    }
+                
+                        deathTimeCounter = deathTime;
+                        anim.SetBool("Death", true);
+                
+                }
+                if(deathTimeCounter > 0)
+                {
+                    deathTimeCounter -= Time.deltaTime;
+                }
+                else
+                {
+                    SceneManager.LoadScene("Death");
                 }
             }
         }
@@ -44,10 +57,19 @@ public class PlayerHP : MonoBehaviour
             HP.text = "Health: " + health;
             Healthslider.value = health;
             if (health < 1)
-            { 
-                {
-                    SceneManager.LoadScene("Death");
-                }
+            {
+
+                deathTimeCounter = deathTime;
+                anim.SetBool("Death", true);
+
+            }
+            if (deathTimeCounter > 0)
+            {
+                deathTimeCounter -= Time.deltaTime;
+            }
+            else
+            {
+                SceneManager.LoadScene("Death");
             }
         }
 
