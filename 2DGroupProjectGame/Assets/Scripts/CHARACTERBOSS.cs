@@ -40,5 +40,9 @@ public class CHARACTERBOSS : MonoBehaviour
             spawned = true;
             GameObject boss = Instantiate(loadboss, transform.position, Quaternion.identity);
         }
+        else
+        {
+            Debug.Log("uwu");
+        }
     }
 }
