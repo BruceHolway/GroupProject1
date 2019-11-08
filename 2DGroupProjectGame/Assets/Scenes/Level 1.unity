@@ -31635,6 +31635,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Health Kit
       objectReference: {fileID: 0}
+    - target: {fileID: 821438913549235511, guid: d3420d2bc8b42d54c8b3aee2a40f5425,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4920820793867764076, guid: d3420d2bc8b42d54c8b3aee2a40f5425,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31694,11 +31699,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingOrder
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 821438913549235511, guid: d3420d2bc8b42d54c8b3aee2a40f5425,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d3420d2bc8b42d54c8b3aee2a40f5425, type: 3}
@@ -32484,6 +32484,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Health SLider
       objectReference: {fileID: 0}
+    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4136700666977548725, guid: a6886215e33868948bcc7e9659f940fa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32588,21 +32603,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
-        type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
-        type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6886215e33868948bcc7e9659f940fa, type: 3}
@@ -120931,7 +120931,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Objective 1:
 
-    Get rid of the goblins'
+'
 --- !u!222 &1867191483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -121622,6 +121622,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: player spawner
       objectReference: {fileID: 0}
+    - target: {fileID: 3884940849947592012, guid: d5942bb1e12acf54e8c8e066e3911846,
+        type: 3}
+      propertyPath: Character
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3973614144652675028, guid: d5942bb1e12acf54e8c8e066e3911846,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -121656,11 +121661,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3884940849947592012, guid: d5942bb1e12acf54e8c8e066e3911846,
-        type: 3}
-      propertyPath: Character
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5942bb1e12acf54e8c8e066e3911846, type: 3}
