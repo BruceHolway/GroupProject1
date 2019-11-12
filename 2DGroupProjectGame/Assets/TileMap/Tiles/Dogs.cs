@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Dogs : MonoBehaviour
 {
@@ -17,5 +18,10 @@ public class Dogs : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        if (Input.GetKey(KeyCode.C))
+        {
+            SceneManager.LoadScene("Meme");
+        }
     }
+
 }

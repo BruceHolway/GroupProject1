@@ -56,4 +56,8 @@ public class MainMenuButtons : MonoBehaviour
         PlayerPrefs.SetInt("lives", lives);
         GameObject.Find("player select").GetComponent<Canvas>().enabled = true;
     }
+    public void Credits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
 }
