@@ -18,9 +18,13 @@ public class Dogs : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (Input.GetKey(KeyCode.C))
+        if (Input.GetKey(KeyCode.H))
         {
             SceneManager.LoadScene("Meme");
+        }
+        if (Input.GetKey(KeyCode.C))
+        {
+            SceneManager.LoadScene("HowToPlay");
         }
     }
 

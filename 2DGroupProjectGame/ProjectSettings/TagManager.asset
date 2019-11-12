@@ -13,6 +13,7 @@ TagManager:
   - Level
   - Load
   - Melon
+  - Dog
   layers:
   - Default
   - TransparentFX

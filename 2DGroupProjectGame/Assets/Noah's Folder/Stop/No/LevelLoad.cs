@@ -25,5 +25,9 @@ public class LevelLoad : MonoBehaviour
         {
             SceneManager.LoadScene("MelonLevel");
         }
+        if (collision.gameObject.tag == "Dog")
+        {
+            SceneManager.LoadScene("Win2");
+        }
     }
 }
