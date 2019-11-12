@@ -185,9 +185,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 979343310741967911, guid: e76bdea77d24b834eb1d8c790dc0448b, type: 3}
-  bspee: 10
+  bspee: 8
   bulletlifetime: 0.2
-  shhotdelay: 0.25
+  shhotdelay: 0.5
 --- !u!114 &6631649493375469478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -205,6 +205,7 @@ MonoBehaviour:
   Healthslider: {fileID: 4136700666977548724, guid: a6886215e33868948bcc7e9659f940fa,
     type: 3}
   lives: 0
+  deathTime: 0.6
 --- !u!114 &4966097881710193635
 MonoBehaviour:
   m_ObjectHideFlags: 0

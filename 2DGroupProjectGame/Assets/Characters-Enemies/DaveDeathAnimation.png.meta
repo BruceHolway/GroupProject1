@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: feeafaabafc6f1040909c52379316bac
+guid: f0c2128db5433b749a28e1126067d0aa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1603007896060801799
-    second: KarenDeathAnimation_0
+      213: 3323315980907698768
+    second: DaveDeathAnimation_0
   - first:
-      213: 456767353592973184
-    second: KarenDeathAnimation_1
+      213: 3482500833869173078
+    second: DaveDeathAnimation_1
   - first:
-      213: 3953786859066005879
-    second: KarenDeathAnimation_2
+      213: -2394938860124140805
+    second: DaveDeathAnimation_2
   - first:
-      213: -968372295762804559
-    second: KarenDeathAnimation_3
+      213: 3395645050617808103
+    second: DaveDeathAnimation_3
   - first:
-      213: -6668243348729767647
-    second: KarenDeathAnimation_4
+      213: 7405864532326667942
+    second: DaveDeathAnimation_4
   - first:
-      213: -7686849022241947911
-    second: KarenDeathAnimation_5
+      213: -1306138972008247412
+    second: DaveDeathAnimation_5
   - first:
-      213: 368132742011250901
-    second: KarenDeathAnimation_6
+      213: -3040708099833364529
+    second: DaveDeathAnimation_6
   - first:
-      213: -5481703563305499153
-    second: KarenDeathAnimation_7
+      213: 4667770768827186883
+    second: DaveDeathAnimation_7
   - first:
-      213: -1841879948909180449
-    second: KarenDeathAnimation_8
+      213: 4322517720956593254
+    second: DaveDeathAnimation_8
   - first:
-      213: -1083707916068740190
-    second: KarenDeathAnimation_9
+      213: 3020693115957091773
+    second: DaveDeathAnimation_9
   - first:
-      213: 7114250852252057020
-    second: KarenDeathAnimation_10
+      213: -1801572855286704014
+    second: DaveDeathAnimation_10
   - first:
-      213: 4441752772428870742
-    second: KarenDeathAnimation_11
+      213: 8820708012615436290
+    second: DaveDeathAnimation_11
   - first:
-      213: 9024105660704542116
-    second: KarenDeathAnimation_12
+      213: -118526092394763401
+    second: DaveDeathAnimation_12
   - first:
-      213: 8197950667884903467
-    second: KarenDeathAnimation_13
+      213: -1913822017748979486
+    second: DaveDeathAnimation_13
   - first:
-      213: -1215448400381079278
-    second: KarenDeathAnimation_14
+      213: 1401299588518718501
+    second: DaveDeathAnimation_14
   - first:
-      213: 7627387732144558376
-    second: KarenDeathAnimation_15
+      213: 4647545294728378552
+    second: DaveDeathAnimation_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -134,7 +134,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KarenDeathAnimation_0
+      name: DaveDeathAnimation_0
       rect:
         serializedVersion: 2
         x: 0
@@ -148,14 +148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ff2edb66cea22a46b439dccf5a44704
-      internalID: -1603007896060801799
+      spriteID: 272cbc8b8149bce49968706fa54222d5
+      internalID: 3323315980907698768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_1
+      name: DaveDeathAnimation_1
       rect:
         serializedVersion: 2
         x: 32
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6c6934131a4fae41b2f03f248155c46
-      internalID: 456767353592973184
+      spriteID: ba6e06024d7c1c744b9594cd7a718ee5
+      internalID: 3482500833869173078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_2
+      name: DaveDeathAnimation_2
       rect:
         serializedVersion: 2
         x: 64
@@ -190,14 +190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae5c89bd270f5f24ba1cc62bf6888dd7
-      internalID: 3953786859066005879
+      spriteID: 1a79c5a76101b5c4281716b898ed8534
+      internalID: -2394938860124140805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_3
+      name: DaveDeathAnimation_3
       rect:
         serializedVersion: 2
         x: 96
@@ -211,14 +211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a5e839f1f62334478b50ecdd67a602a
-      internalID: -968372295762804559
+      spriteID: 1ad896bfc463c644eb68cce17bed09c9
+      internalID: 3395645050617808103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_4
+      name: DaveDeathAnimation_4
       rect:
         serializedVersion: 2
         x: 0
@@ -232,14 +232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e628b15523af2244aacb09f7f5df9e65
-      internalID: -6668243348729767647
+      spriteID: 83f2d9c826b64f4428184e9f09ae43ac
+      internalID: 7405864532326667942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_5
+      name: DaveDeathAnimation_5
       rect:
         serializedVersion: 2
         x: 32
@@ -253,14 +253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2aa54c1b0b055e34a97cb08f8443dce0
-      internalID: -7686849022241947911
+      spriteID: 4e5d4964d67d91944b8820a0d983538d
+      internalID: -1306138972008247412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_6
+      name: DaveDeathAnimation_6
       rect:
         serializedVersion: 2
         x: 64
@@ -274,14 +274,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c52a19d3eebe364f9dd8f2f18f0cbe6
-      internalID: 368132742011250901
+      spriteID: 7ae4c9319e74cc34eb06e02cd4178d48
+      internalID: -3040708099833364529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_7
+      name: DaveDeathAnimation_7
       rect:
         serializedVersion: 2
         x: 96
@@ -295,14 +295,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b160bdf4ac0d86f40b13889d74294725
-      internalID: -5481703563305499153
+      spriteID: 23f182fa5e64b9d4f86803d562a612d2
+      internalID: 4667770768827186883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_8
+      name: DaveDeathAnimation_8
       rect:
         serializedVersion: 2
         x: 0
@@ -316,14 +316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 734bf70a91f38ed4b80b3c07df2320a6
-      internalID: -1841879948909180449
+      spriteID: 0ec0f85b84631a34c9b9da42a5cecbaa
+      internalID: 4322517720956593254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_9
+      name: DaveDeathAnimation_9
       rect:
         serializedVersion: 2
         x: 32
@@ -337,14 +337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69cd0370f2dbcff409f5ebd3e7baa98a
-      internalID: -1083707916068740190
+      spriteID: e1d24fef0ed9cdf43b8c50db3300c4d8
+      internalID: 3020693115957091773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_10
+      name: DaveDeathAnimation_10
       rect:
         serializedVersion: 2
         x: 64
@@ -358,14 +358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8444885260072541b381d63771f6d3a
-      internalID: 7114250852252057020
+      spriteID: eab9db9e28d368845ad4a0a233fe2e0f
+      internalID: -1801572855286704014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_11
+      name: DaveDeathAnimation_11
       rect:
         serializedVersion: 2
         x: 96
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59dce41c571863c4e85f80b3245f8591
-      internalID: 4441752772428870742
+      spriteID: 64e6732889d36f94ea82c9b119eaecfc
+      internalID: 8820708012615436290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_12
+      name: DaveDeathAnimation_12
       rect:
         serializedVersion: 2
         x: 0
@@ -400,14 +400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 996f2dfb9f8fc8a4499a1f2e48a43406
-      internalID: 9024105660704542116
+      spriteID: 493d7555df2dcb3498b3533675ccf5ed
+      internalID: -118526092394763401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_13
+      name: DaveDeathAnimation_13
       rect:
         serializedVersion: 2
         x: 32
@@ -421,14 +421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d33fa3155c7a155428d98ebf9d6b5887
-      internalID: 8197950667884903467
+      spriteID: a566f49dd28fc2f4ab08abedfc9a9b98
+      internalID: -1913822017748979486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_14
+      name: DaveDeathAnimation_14
       rect:
         serializedVersion: 2
         x: 64
@@ -442,14 +442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26cb8fc9feaab3a439ed0cd3b4ceffc9
-      internalID: -1215448400381079278
+      spriteID: 14b0badd809f29947b3c0b2fa97dbb07
+      internalID: 1401299588518718501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KarenDeathAnimation_15
+      name: DaveDeathAnimation_15
       rect:
         serializedVersion: 2
         x: 96
@@ -463,8 +463,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 316c8f3fb0ea6164f822602edb981dce
-      internalID: 7627387732144558376
+      spriteID: e46fb7c71d7d9c44eacd3c76cb821ced
+      internalID: 4647545294728378552
       vertices: []
       indices: 
       edges: []

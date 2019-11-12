@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5.42
-  Character: 
+  attackTime: 0
 --- !u!50 &4967189763922013924
 Rigidbody2D:
   serializedVersion: 4
@@ -288,6 +288,7 @@ MonoBehaviour:
   Healthslider: {fileID: 4136700666977548724, guid: a6886215e33868948bcc7e9659f940fa,
     type: 3}
   lives: 0
+  deathTime: 0.6
 --- !u!114 &4180848705878265503
 MonoBehaviour:
   m_ObjectHideFlags: 0

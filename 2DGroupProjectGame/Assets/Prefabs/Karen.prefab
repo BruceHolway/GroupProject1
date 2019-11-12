@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 6
-  Character: 
+  attackTime: 0
 --- !u!50 &1662392043958398862
 Rigidbody2D:
   serializedVersion: 4
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 762890b1adc8d4c4ca948c5a4b1e74aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 6309451234165057334, guid: 1b93bc91fde95364eac3a24078ffd682, type: 3}
   bspee: 8
   bulletlifetime: 0.2
   shhotdelay: 1
@@ -204,6 +204,7 @@ MonoBehaviour:
   Healthslider: {fileID: 4136700666977548724, guid: a6886215e33868948bcc7e9659f940fa,
     type: 3}
   lives: 0
+  deathTime: 0
 --- !u!114 &2637264195884842596
 MonoBehaviour:
   m_ObjectHideFlags: 0

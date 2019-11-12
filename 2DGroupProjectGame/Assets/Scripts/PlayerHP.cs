@@ -31,21 +31,14 @@ public class PlayerHP : MonoBehaviour
                 health = health - 10;
                 HP.text = "Health: " + health;
                 Healthslider.value = health;
-                if (health < 1)
+                if (health < 1 && deathTimeCounter == 0)
                 {
                 
                         deathTimeCounter = deathTime;
                         anim.SetBool("Death", true);
                 
                 }
-                if(deathTimeCounter > 0)
-                {
-                    deathTimeCounter -= Time.deltaTime;
-                }
-                else
-                {
-                    SceneManager.LoadScene("Death");
-                }
+                
             }
         }
     }
@@ -56,21 +49,14 @@ public class PlayerHP : MonoBehaviour
             health--;
             HP.text = "Health: " + health;
             Healthslider.value = health;
-            if (health < 1)
+            if (health < 1 && deathTimeCounter == 0)
             {
 
                 deathTimeCounter = deathTime;
                 anim.SetBool("Death", true);
 
             }
-            if (deathTimeCounter > 0)
-            {
-                deathTimeCounter -= Time.deltaTime;
-            }
-            else
-            {
-                SceneManager.LoadScene("Death");
-            }
+            
         }
 
     }
@@ -91,6 +77,18 @@ public class PlayerHP : MonoBehaviour
                 }
             }
         }
+    }
+    public void Update()
+    {
+        if(deathTimeCounter > 0)
+        {
+            deathTimeCounter -= Time.deltaTime;
+        }
+        if(deathTimeCounter < 0)
+        {
+            anim.SetBool("Death", false);
+            SceneManager.LoadScene("Death");
+        }   
     }
 
 }
