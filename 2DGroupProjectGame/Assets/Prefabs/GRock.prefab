@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1234218653457928420}
   - component: {fileID: 6670010531945902475}
   - component: {fileID: 4832936362808471794}
+  - component: {fileID: 7249066989151070724}
   m_Layer: 13
   m_Name: GRock
   m_TagString: EnemyBullet
@@ -119,3 +120,15 @@ CircleCollider2D:
   m_Offset: {x: -0.0009884834, y: 0}
   serializedVersion: 2
   m_Radius: 0.09011459
+--- !u!114 &7249066989151070724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4269957855174757336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b760427c7acc6340b5fbdfbfe5518bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
