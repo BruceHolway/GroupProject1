@@ -16,6 +16,7 @@ public class EnemyAI : MonoBehaviour
     void Start()
     {
         startPosition = transform.position;
+        player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     // Update is called once per frame

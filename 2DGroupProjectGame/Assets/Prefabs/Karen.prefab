@@ -184,9 +184,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 6309451234165057334, guid: 1b93bc91fde95364eac3a24078ffd682, type: 3}
+
   bspee: 15
   bulletlifetime: 1.5
   shhotdelay: 0.5
+
 --- !u!114 &1662392043958398857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -276,7 +278,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3.0631347
+  orthographic size: 3.465422
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
