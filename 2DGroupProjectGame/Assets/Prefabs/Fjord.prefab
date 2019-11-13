@@ -103,7 +103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 4
-  attackTime: 0
+  attackTime: 0.2
 --- !u!50 &6631649493375469473
 Rigidbody2D:
   serializedVersion: 4

@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5.42
-  attackTime: 0
+  attackTime: 0.4
 --- !u!50 &4967189763922013924
 Rigidbody2D:
   serializedVersion: 4
@@ -270,7 +270,7 @@ MonoBehaviour:
   prefab: {fileID: 7706364865986643642, guid: 600c0c009d4e7b24b922885a6475e924, type: 3}
   bspee: 15
   bulletlifetime: 1
-  shhotdelay: 0.6
+  shhotdelay: 0.5
 --- !u!114 &4967189763922013923
 MonoBehaviour:
   m_ObjectHideFlags: 0
