@@ -1,7 +1,103 @@
 fileFormatVersion: 2
 guid: bf61db80e088bc84aa98d61ad979b1b9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3318661512926928572
+    second: RadioactiveDERPScorpion_0
+  - first:
+      213: -2872005837508202380
+    second: RadioactiveDERPScorpion_1
+  - first:
+      213: -6562742871729967970
+    second: RadioactiveDERPScorpion_2
+  - first:
+      213: -223189244528754046
+    second: RadioactiveDERPScorpion_3
+  - first:
+      213: 3215853522161552178
+    second: RadioactiveDERPScorpion_4
+  - first:
+      213: -9151594297771317863
+    second: RadioactiveDERPScorpion_5
+  - first:
+      213: -7642351830446765283
+    second: RadioactiveDERPScorpion_6
+  - first:
+      213: 5647443017373047141
+    second: RadioactiveDERPScorpion_7
+  - first:
+      213: 2652590340334130269
+    second: RadioactiveDERPScorpion_8
+  - first:
+      213: 3721309880745119769
+    second: RadioactiveDERPScorpion_9
+  - first:
+      213: 5290506453552601534
+    second: RadioactiveDERPScorpion_10
+  - first:
+      213: -8212717433204877972
+    second: RadioactiveDERPScorpion_11
+  - first:
+      213: -3371536666283350461
+    second: RadioactiveDERPScorpion_12
+  - first:
+      213: 8491634977860430831
+    second: RadioactiveDERPScorpion_13
+  - first:
+      213: -3326610295231987209
+    second: RadioactiveDERPScorpion_14
+  - first:
+      213: 1877349707594791244
+    second: RadioactiveDERPScorpion_15
+  - first:
+      213: -4437090915010006531
+    second: RadioactiveDERPScorpion_16
+  - first:
+      213: 4503550489116952501
+    second: RadioactiveDERPScorpion_17
+  - first:
+      213: -6086955480903002887
+    second: RadioactiveDERPScorpion_18
+  - first:
+      213: 5304410037189692193
+    second: RadioactiveDERPScorpion_19
+  - first:
+      213: 1062183286884479730
+    second: RadioactiveDERPScorpion_20
+  - first:
+      213: 8001296139168479941
+    second: RadioactiveDERPScorpion_21
+  - first:
+      213: 3223033744801603591
+    second: RadioactiveDERPScorpion_22
+  - first:
+      213: -605842961468861293
+    second: RadioactiveDERPScorpion_23
+  - first:
+      213: 3484949451679938842
+    second: RadioactiveDERPScorpion_24
+  - first:
+      213: -9037012729508328608
+    second: RadioactiveDERPScorpion_25
+  - first:
+      213: 624816751240482987
+    second: RadioactiveDERPScorpion_26
+  - first:
+      213: -849984588271648832
+    second: RadioactiveDERPScorpion_27
+  - first:
+      213: -4203484435397512264
+    second: RadioactiveDERPScorpion_28
+  - first:
+      213: 5623964353213147854
+    second: RadioactiveDERPScorpion_29
+  - first:
+      213: -7278586086387127485
+    second: RadioactiveDERPScorpion_30
+  - first:
+      213: -7960526117428897803
+    second: RadioactiveDERPScorpion_31
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +127,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +136,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +159,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +180,679 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ef78e6d7fb604cb6e7dfac9c8f270
+      internalID: -3318661512926928572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1240
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee93dc3a73e0445a8698cca0c88688
+      internalID: -2872005837508202380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1240
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba76f89f207ca4ab8800f6796afabe
+      internalID: -6562742871729967970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1240
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eddf4d57f50cae4fba30e1e02d9797a
+      internalID: -223189244528754046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1240
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1acb31b07fcfb4d96f9d31a8385a0e
+      internalID: 3215853522161552178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_5
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1240
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1d17d303cf0114f85bcae2de14d7c5
+      internalID: -9151594297771317863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d90db4ab04850f4da7d30334d27eb10
+      internalID: -7642351830446765283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 992
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1027906e5ad0e2d49816a3ccfe068be7
+      internalID: 5647443017373047141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 992
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e546cf1ac31d7d4087eefa5fdc1e4c3
+      internalID: 2652590340334130269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_9
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 992
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8281d0f1d839a2e40a4a4d4ded5c024e
+      internalID: 3721309880745119769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 992
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfdcfb6ac7d2274b9b8691d09accf2e
+      internalID: 5290506453552601534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_11
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 992
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f1339ac9742a4fa86092d2c50f65c
+      internalID: -8212717433204877972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725adc08e68d5aa4a93db9e7a2588993
+      internalID: -3371536666283350461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 744
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90974820aa8055144ba9b8c9c6d8cc3a
+      internalID: 8491634977860430831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 744
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57639595462ae3141b4c21764372d445
+      internalID: -3326610295231987209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 744
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb731284a1f0a4b95e0e1fd5b06951
+      internalID: 1877349707594791244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 744
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ddb79973d90a4e8002f44f5aadb62
+      internalID: -4437090915010006531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_17
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 744
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f94f44b27dc364db09a6ccbaca8e62
+      internalID: 4503550489116952501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcda966b930901489cf6044763af583
+      internalID: -6086955480903002887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 496
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5d69daac6bd14fab1ba1561a14a26
+      internalID: 5304410037189692193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07656c46f0d0bd84a8fb7e0920490049
+      internalID: 1062183286884479730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 496
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacffe1587726bf4088b03bb48498580
+      internalID: 8001296139168479941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 496
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc29e5a1c26d3444bb6f4876bbb46fc6
+      internalID: 3223033744801603591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_23
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 496
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985123f78bb4954aa97023a857630e2
+      internalID: -605842961468861293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a409b4e85b15d4db2e7520539dee83
+      internalID: 3484949451679938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b783c607965a3d429e228767d6d2bfb
+      internalID: -9037012729508328608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 248
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f8b081ddd8c242a1aaa5830d06199
+      internalID: 624816751240482987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 248
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7770e9b5d15c324cb0c44de5d0611cd
+      internalID: -849984588271648832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 248
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e7c25a2d0d8940a12f78a31d3c4ea
+      internalID: -4203484435397512264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_29
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 248
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e584ee70f5947949b817a53524bcd75
+      internalID: 5623964353213147854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27853cea1851b6d4a8fc8df17616c9f9
+      internalID: -7278586086387127485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveDERPScorpion_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6368efeb0b04b6c43909c8b4f17be7e8
+      internalID: -7960526117428897803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
