@@ -228,7 +228,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6748861976067629092}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
   m_Name: 
@@ -341,6 +341,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Health
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693194668038260550, guid: 868569c5e57b86f4797706f71e86d4fe,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693194668038260550, guid: 868569c5e57b86f4797706f71e86d4fe,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.6179246
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693194668038260550, guid: 868569c5e57b86f4797706f71e86d4fe,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.6179246
       objectReference: {fileID: 0}
     - target: {fileID: 3693194668038260545, guid: 868569c5e57b86f4797706f71e86d4fe,
         type: 3}
@@ -467,6 +482,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Health SLider
       objectReference: {fileID: 0}
+    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4136700666977548725, guid: a6886215e33868948bcc7e9659f940fa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -571,16 +596,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
-        type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4136700665620513728, guid: a6886215e33868948bcc7e9659f940fa,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6886215e33868948bcc7e9659f940fa, type: 3}
