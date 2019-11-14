@@ -1,43 +1,31 @@
 fileFormatVersion: 2
-guid: 2f4539130daea10438f03e8c491c1aeb
+guid: 7630c297724da23408181619b4dbfd63
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7737767953675815687
-    second: FjordSwingingAnimation_0
+      213: -1022713575992441709
+    second: RadioactiveDERPScorpionidle_0
   - first:
-      213: 3673628315900622351
-    second: FjordSwingingAnimation_1
+      213: -3968384120803314728
+    second: RadioactiveDERPScorpionidle_1
   - first:
-      213: -7050962242005981794
-    second: FjordSwingingAnimation_2
+      213: -2238922559701548069
+    second: RadioactiveDERPScorpionidle_2
   - first:
-      213: -6419352751787662949
-    second: FjordSwingingAnimation_3
+      213: -1060433214927187895
+    second: RadioactiveDERPScorpionidle_3
   - first:
-      213: -7713184724580245332
-    second: FjordSwingingAnimation_4
+      213: 7436501352296677682
+    second: RadioactiveDERPScorpionidle_4
   - first:
-      213: 7209255799775888604
-    second: FjordSwingingAnimation_5
+      213: 2843199927169720526
+    second: RadioactiveDERPScorpionidle_5
   - first:
-      213: -3306727006182690000
-    second: FjordSwingingAnimation_6
+      213: 6317104833528653731
+    second: RadioactiveDERPScorpionidle_6
   - first:
-      213: -4333403815894365868
-    second: FjordSwingingAnimation_7
-  - first:
-      213: -8626440958319114377
-    second: FjordSwingingAnimation_8
-  - first:
-      213: 7583472856033926678
-    second: FjordSwingingAnimation_9
-  - first:
-      213: -636279904269484378
-    second: FjordSwingingAnimation_10
-  - first:
-      213: -526841368371378743
-    second: FjordSwingingAnimation_11
+      213: 7382336553510721289
+    second: RadioactiveDERPScorpionidle_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -122,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FjordSwingingAnimation_0
+      name: RadioactiveDERPScorpionidle_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 108
-        width: 36
-        height: 36
+        y: 496
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f454e9683db92dc4da6ff3029e683b1c
-      internalID: -7737767953675815687
+      spriteID: f631ffdff9bb15543b9f0ac06d1d6d88
+      internalID: -1022713575992441709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_1
+      name: RadioactiveDERPScorpionidle_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 108
-        width: 36
-        height: 36
+        x: 248
+        y: 496
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2592c792b95e27d40b30df00d8047e00
-      internalID: 3673628315900622351
+      spriteID: 860cd5366282a584cbb9e52f02bcebed
+      internalID: -3968384120803314728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_2
+      name: RadioactiveDERPScorpionidle_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 108
-        width: 36
-        height: 36
+        x: 496
+        y: 496
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,83 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd2f9e8545fd0e4eaa4242c9e6fa40d
-      internalID: -7050962242005981794
+      spriteID: e47eb1bfa665cc549850dabbaf458a9e
+      internalID: -2238922559701548069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 72
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fe184a581574ab4e945598490d8f100
-      internalID: -6419352751787662949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FjordSwingingAnimation_4
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 72
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a3003d6df90b15499732178faaf9265
-      internalID: -7713184724580245332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FjordSwingingAnimation_5
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 72
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cc9f7f569d739c4f8c49d03512338dc
-      internalID: 7209255799775888604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FjordSwingingAnimation_6
+      name: RadioactiveDERPScorpionidle_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 36
-        width: 36
-        height: 36
+        y: 248
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b73090c4a7d846c47b12158502c831de
-      internalID: -3306727006182690000
+      spriteID: 20a029099ab32a346a9973133fda7cc7
+      internalID: -1060433214927187895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_7
+      name: RadioactiveDERPScorpionidle_4
       rect:
         serializedVersion: 2
-        x: 36
-        y: 36
-        width: 36
-        height: 36
+        x: 248
+        y: 248
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f11a72defe38204d922a5938ce732b3
-      internalID: -4333403815894365868
+      spriteID: 7e1ec9f97e527ab4babd81fa73343a50
+      internalID: 7436501352296677682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_8
+      name: RadioactiveDERPScorpionidle_5
       rect:
         serializedVersion: 2
-        x: 72
-        y: 36
-        width: 36
-        height: 36
+        x: 496
+        y: 248
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12c673aa182003640a9318a9a01a5c03
-      internalID: -8626440958319114377
+      spriteID: 42c006c774e3a6949916d83be3022916
+      internalID: 2843199927169720526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_9
+      name: RadioactiveDERPScorpionidle_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 36
-        height: 36
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ece8130b2439fee4d93c236b24aee396
-      internalID: 7583472856033926678
+      spriteID: 858335f854832f74e95a463d4f98dede
+      internalID: 6317104833528653731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FjordSwingingAnimation_10
+      name: RadioactiveDERPScorpionidle_7
       rect:
         serializedVersion: 2
-        x: 36
+        x: 248
         y: 0
-        width: 36
-        height: 36
+        width: 248
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,29 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81257b365118de546b79cbec83e7bedc
-      internalID: -636279904269484378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FjordSwingingAnimation_11
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 0
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9639592ef1c43ce40afbcd1dd0324105
-      internalID: -526841368371378743
+      spriteID: 8d1ac460ef096ed48980b5fd1a68fb3d
+      internalID: 7382336553510721289
       vertices: []
       indices: 
       edges: []
