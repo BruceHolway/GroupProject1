@@ -200,9 +200,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 185ad7c82c34d3c4a99cda4ad4c59935, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 80
-  HP: {fileID: 0}
-  Healthslider: {fileID: 0}
+  health: 70
+  HP: {fileID: 3693194668038260550, guid: 868569c5e57b86f4797706f71e86d4fe, type: 3}
+  Healthslider: {fileID: 4136700666977548724, guid: a6886215e33868948bcc7e9659f940fa,
+    type: 3}
   lives: 0
   deathTime: 0.6
 --- !u!114 &4966097881710193635

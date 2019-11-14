@@ -22,7 +22,6 @@ public class PlayerHP : MonoBehaviour
         Healthslider.value = health;
         lives = PlayerPrefs.GetInt("lives");
         anim = GetComponent<Animator>();
-        HP = GameObject.FindWithTag("Player").GetComponent<Text> ();
     }
     void OnCollisionEnter2D(Collision2D collision)
     {

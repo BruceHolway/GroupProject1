@@ -200,8 +200,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 40
-  HP: {fileID: 0}
-  Healthslider: {fileID: 0}
+  HP: {fileID: 3693194668038260550, guid: 868569c5e57b86f4797706f71e86d4fe, type: 3}
+  Healthslider: {fileID: 4136700666977548724, guid: a6886215e33868948bcc7e9659f940fa,
+    type: 3}
   lives: 0
   deathTime: 0
 --- !u!114 &2637264195884842596
