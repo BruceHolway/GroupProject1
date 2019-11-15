@@ -16,6 +16,8 @@ TagManager:
   - Dog
   - radiation
   - spawner
+  - HealthText
+  - HealthSlider
   layers:
   - Default
   - TransparentFX
