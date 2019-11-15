@@ -14,6 +14,8 @@ TagManager:
   - Load
   - Melon
   - Dog
+  - radiation
+  - spawner
   layers:
   - Default
   - TransparentFX
@@ -30,8 +32,8 @@ TagManager:
   - Player bullet
   - Enemy bullet
   - Enemy
-  - 
-  - 
+  - spawner
+  - radiation
   - 
   - 
   - 
