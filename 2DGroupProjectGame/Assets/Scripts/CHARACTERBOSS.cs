@@ -39,10 +39,12 @@ public class CHARACTERBOSS : MonoBehaviour
         {
             spawned = true;
             GameObject boss = Instantiate(loadboss, transform.position, Quaternion.identity);
+            Debug.Log("owo");
+            Destroy(gameObject);
         }
         else
         {
-            Debug.Log("uwu");
+            Debug.Log("owo");
         }
     }
 }

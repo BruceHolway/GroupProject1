@@ -23,6 +23,8 @@ public class BOSSSPAWNER : MonoBehaviour
         {
             spawned = true;
             GameObject boss = Instantiate(loadboss, transform.position, Quaternion.identity);
+            Debug.Log("uwu");
+            Destroy(gameObject);
         }
         else
         {

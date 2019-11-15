@@ -14,6 +14,9 @@ public class PlayerHP : MonoBehaviour
     public int lives = 0;
     public float deathTime;
     private float deathTimeCounter;
+    public float timer;
+    string debug;
+    bool stay = false;
 
     private void Start()
     {
@@ -27,19 +30,18 @@ public class PlayerHP : MonoBehaviour
     {
         if (collision.gameObject.tag == "EnemyBullet")
         {
+            health = health - 10;
+            HP.text = "Health: " + health;
+            Healthslider.value = health;
+            if (health < 1 && deathTimeCounter == 0)
             {
-                health = health - 10;
-                HP.text = "Health: " + health;
-                Healthslider.value = health;
-                if (health < 1 && deathTimeCounter == 0)
-                {
-                
-                        deathTimeCounter = deathTime;
-                        anim.SetBool("Death", true);
-                
-                }
-                
+            
+                deathTimeCounter = deathTime;
+                anim.SetBool("Death", true);
+            
             }
+                
+            
         }
     }
     void OnCollisionStay2D(Collision2D collision)
@@ -64,23 +66,37 @@ public class PlayerHP : MonoBehaviour
     {
         if (collision.gameObject.tag == "Health")
         {
+            health = health + 10;
+            HP.text = "Health: " + health;
+            Healthslider.value = health;
+            Destroy(collision.gameObject);
+            if (health > 101)
             {
-                health = health + 10;
-                HP.text = "Health: " + health;
-                Healthslider.value = health;
-                Destroy(collision.gameObject);
-                if (health > 101)
                 {
-                    {
-                        SceneManager.LoadScene("Death2");
-                    }
+                    SceneManager.LoadScene("Death2");
                 }
             }
+            
+        }
+        else if (collision.gameObject.tag == "radiation")
+        {
+            stay = true;
+
         }
     }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "radiation")
+        {
+            stay = false;
+        }
+    }
+
     public void Update()
     {
-        if(deathTimeCounter > 0)
+        timer += Time.deltaTime;
+        if (deathTimeCounter > 0)
         {
             deathTimeCounter -= Time.deltaTime;
         }
@@ -88,9 +104,25 @@ public class PlayerHP : MonoBehaviour
         {
             anim.SetBool("Death", false);
             SceneManager.LoadScene("Death");
-        }   
+        }
+        if (stay == true)
+        {
+            Slow_damage();
+        }
     }
 
+    public void Slow_damage()
+    {
+        
+        
+        if (timer >= 1)
+        {
+            health--;
+            HP.text = "Health: " + health;
+            Healthslider.value = health;
+            timer = 0;
+        }
+    }
 }
 
     

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3973614144652675028}
   - component: {fileID: 3884940849947592012}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: player spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,13 +11,13 @@ GameObject:
   - component: {fileID: 2748523748397664238}
   - component: {fileID: 2748523748397664241}
   - component: {fileID: 2748523748397664240}
-  - component: {fileID: 2748523748397664243}
   - component: {fileID: 2748523748397664242}
   - component: {fileID: 2748523748397664239}
   - component: {fileID: 2748523748397664236}
-  m_Layer: 0
+  - component: {fileID: 1769352756305052307}
+  m_Layer: 14
   m_Name: RadioactiveDERPScorpion
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -99,24 +99,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 521e33d6801eed54b8bf76ab9018c149, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2748523748397664243
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2748523748397664245}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0119dd6e9dabe2e42a5390ed2970275d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  chaseSpeed: 2
-  paceSpeed: 1.5
-  chaseTriggerDistance: 10
-  paceDirection: {x: 0, y: 0, z: 0}
-  paceDistance: 3
 --- !u!95 &2748523748397664242
 Animator:
   serializedVersion: 3
@@ -156,7 +138,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &2748523748397664236
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -173,6 +155,24 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 1.25
+--- !u!114 &1769352756305052307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2748523748397664245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26cd154ea61ce404eb1ca2572ee9390f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  chaseSpeed: 2
+  paceSpeed: 1.5
+  chaseTriggerDistance: 5
+  paceDirection: {x: 0, y: 0, z: 0}
+  paceDistance: 3
 --- !u!1 &2748523748554025102
 GameObject:
   m_ObjectHideFlags: 0
@@ -184,9 +184,9 @@ GameObject:
   - component: {fileID: 2748523748554025103}
   - component: {fileID: 2748523748554025100}
   - component: {fileID: 2748523748554025101}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: New Sprite
-  m_TagString: Untagged
+  m_TagString: radiation
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
