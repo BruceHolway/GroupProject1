@@ -16,9 +16,9 @@ GameObject:
   - component: {fileID: 4995381474812293239}
   - component: {fileID: 1479987983935367744}
   - component: {fileID: 4222312384465708754}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Scorpion
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

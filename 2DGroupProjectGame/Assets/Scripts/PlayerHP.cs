@@ -18,29 +18,34 @@ public class PlayerHP : MonoBehaviour
     string debug;
     bool stay = false;
 
-    private void Start()
+    void Start()
     {
+        HP = GameObject.Find("Health").GetComponent<Text>();
+        Healthslider = GameObject.Find("Health SLider").GetComponent<Slider>();
         HP.text = "Health: " + health;
         Healthslider.maxValue = health;
         Healthslider.value = health;
         lives = PlayerPrefs.GetInt("lives");
         anim = GetComponent<Animator>();
-        //HP = GameObject.Find("Health").GetComponent<Text>();
-        //Healthslider = GameObject.Find("Health SLider").GetComponent<Slider>();
+        
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "EnemyBullet")
         {
             health = health - 10;
+            if (health < 0)
+            {
+                health = 0;
+            }
             HP.text = "Health: " + health;
             Healthslider.value = health;
             if (health < 1 && deathTimeCounter == 0)
             {
-            
+                
                 deathTimeCounter = deathTime;
                 anim.SetBool("Death", true);
-            
+                
             }
                 
             
@@ -51,6 +56,10 @@ public class PlayerHP : MonoBehaviour
         if (collision.gameObject.tag == "Enemy")
         {
             health--;
+            if (health < 0)
+            {
+                health = 0;
+            }
             HP.text = "Health: " + health;
             Healthslider.value = health;
             if (health < 1 && deathTimeCounter == 0)
@@ -120,6 +129,10 @@ public class PlayerHP : MonoBehaviour
         if (timer >= 1)
         {
             health--;
+            if (health < 0)
+            {
+                health = 0;
+            }
             HP.text = "Health: " + health;
             Healthslider.value = health;
             timer = 0;
