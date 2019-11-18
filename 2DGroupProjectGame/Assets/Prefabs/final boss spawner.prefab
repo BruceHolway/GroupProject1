@@ -71,9 +71,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawned: 0
-  davebossprefab: {fileID: 0}
-  fjordbossprefab: {fileID: 0}
-  karenbossprefab: {fileID: 0}
+  davebossprefab: {fileID: 3989942445602542483, guid: 8b1904a96429cd24db539bda0da06417,
+    type: 3}
+  fjordbossprefab: {fileID: 878212749417976408, guid: ee5cfc3ff00fa9d4dad1b4beb618877e,
+    type: 3}
+  karenbossprefab: {fileID: 246153039375652284, guid: c16c177af5504bd4f9f4065574f3e539,
+    type: 3}
   tbdbossprefab: {fileID: 0}
   loadboss: {fileID: 0}
   Character: 
