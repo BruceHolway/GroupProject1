@@ -18,6 +18,7 @@ TagManager:
   - spawner
   - HealthText
   - HealthSlider
+  - level loader
   layers:
   - Default
   - TransparentFX

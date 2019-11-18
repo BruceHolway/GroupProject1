@@ -354,6 +354,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: next level loader
       objectReference: {fileID: 0}
+    - target: {fileID: 7541956174761364887, guid: be0d9530193f2c440afa9b32037b7f06,
+        type: 3}
+      propertyPath: m_TagString
+      value: level loader
+      objectReference: {fileID: 0}
     - target: {fileID: 7541956174761364874, guid: be0d9530193f2c440afa9b32037b7f06,
         type: 3}
       propertyPath: m_LocalPosition.x
